@@ -1,0 +1,11 @@
+{
+    "doctor": {
+        "firstname": "Krishi",
+        "middlename": "N",
+        "lastname": "Jain",
+        "speciality": "Cardiologist",
+        "experience": 18,
+        "qualification": "MBBS",
+        "contact": "836 986 5723"
+    }
+}
