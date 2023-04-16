@@ -8,7 +8,7 @@
 <script defer>
   let data;
   async function populate() {
-    const requestURL = './doctors/doctordetails.json';
+    const requestURL = './doctordetails.json';
     const request = new Request(requestURL);
     const response = await fetch(request);
     data = await response.json();
